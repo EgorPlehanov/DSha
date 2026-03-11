@@ -9,7 +9,6 @@ class DempsterShafer:
     
     def __init__(self, frame_of_discernment: Set[str]):
         self.frame = frame_of_discernment
-        self.all_subsets = self._generate_all_subsets()
     
     def _generate_all_subsets(self) -> List[FrozenSet]:
         """Генерирует все подмножества фрейма"""
