@@ -5,7 +5,7 @@
 
 ---
 
-## Русская версия
+## RU
 
 ### Status
 
@@ -116,7 +116,7 @@ python main.py
 
 ---
 
-## English version
+## EN
 
 ### Status
 
