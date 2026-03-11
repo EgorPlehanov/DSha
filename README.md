@@ -29,8 +29,6 @@
 - **Вторичный разработчик и научный руководитель:** Владимир Андреевич Пархоменко, старший преподаватель.
 - **Аффилиация:** Федеральное государственное автономное образовательное учреждение высшего образования «Санкт-Петербургский политехнический университет Петра Великого», Институт компьютерных наук и кибербезопасности, Санкт-Петербург, Россия.
 
-Научный руководитель может оперативно вносить изменения, запрошенные рецензентами, без длительных согласований.
-
 ### Отказ от ответственности
 
 Репозиторий содержит исследовательский прототип.
@@ -141,8 +139,6 @@ Implemented features:
 - **Main developer:** Egor Sergeevich Plekhanov, master’s student.
 - **Secondary developer and supervisor:** Vladimir Andreevich Parkhomenko, senior lecturer.
 - **Affiliation:** Peter the Great St. Petersburg Polytechnic University, Institute of Computer Science and Cybersecurity, Saint Petersburg, Russia.
-
-The supervisor may introduce changes requested by reviewers without long coordination delays.
 
 ### Disclaimer
 
